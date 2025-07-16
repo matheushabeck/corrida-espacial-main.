@@ -3,7 +3,8 @@
 Projeto desenvolvido para a disciplina de História. O objetivo é apresentar os principais eventos da **Corrida Espacial** em formato de **linha do tempo interativa**, utilizando **HTML**, **CSS** e **JavaScript**.
 
 ## 🔗 Acesse o projeto online acessando o link a baixo: 
-<a href="https://corrida-espacial-main.vercel.app/" target="_blank">corrida-espacial-main.vercel.app</a>
+👉 [corrida-espacial-main.vercel.app](https://corrida-espacial-main.vercel.app/) *(clique com o botão direito e selecione "abrir em nova aba")*
+
 
 ## 🛰️ Sobre o Projeto
 
